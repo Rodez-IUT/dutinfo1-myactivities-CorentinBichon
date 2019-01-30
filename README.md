@@ -1,3 +1,5 @@
+# Corentin BICHON
+
 # DUT Info 1 - Programmation Base de données
 
 Suivez les instructions de votre enseignant pour installer et lancer le wiki FitNesse / DBFit.
